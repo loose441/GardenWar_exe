@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 37d67e51755e8dd499732aaf087daaf8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - attackSE: {fileID: 8300000, guid: d40a2cc8bb6f90947a10227aeec2e549, type: 3}
+  - hitSE: {fileID: 8300000, guid: bfa2b8c4c7f80754ea6789ad6326ceb3, type: 3}
+  - healSE: {fileID: 8300000, guid: c85e48ef4ad60b440bffaeb0c138f9ae, type: 3}
+  - fireSE: {fileID: 8300000, guid: 679a06e5009ffba468dcaebd3d557104, type: 3}
+  - moveSE: {fileID: 8300000, guid: 83c89f4234cc84b45b4992d58e9394e9, type: 3}
+  - powerUpSE: {fileID: 8300000, guid: 0e58a0c0d79cf28408222fdf84369d67, type: 3}
+  - deathSE: {fileID: 8300000, guid: 14bcbeedfaab136429ccbb6368d2ff79, type: 3}
+  - unitClick: {fileID: 8300000, guid: b3169bf9fc5d61f468b056d28bf03e6c, type: 3}
+  - phaseTransSE: {fileID: 8300000, guid: 9063e8a0c7b8a9b44b822dd46c395703, type: 3}
+  - loseSE: {fileID: 8300000, guid: 15cc58d85ff5fea4dbe8dc9eeb25d3cc, type: 3}
+  - winSE: {fileID: 8300000, guid: f96c3d70a0bec644d8352a10cc66fb10, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
